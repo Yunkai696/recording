@@ -1,6 +1,6 @@
-# recording
-To recording all the idea of daily works
-#### 小样本图像分类的论文的学术地图记录
+# 小样本图像分类的论文的学术地图记录
+### 日常工作记录
+
 ### 注意力机制的论文 
 - 最新的计算机视觉注意力机制(Attention)综述！[知乎Link](https://zhuanlan.zhihu.com/p/438524916)
 - Patches are all you need?[知乎Link](https://www.zhihu.com/question/492712118/answer/2173720753)[paperwithcode](https://paperswithcode.com/paper/patches-are-all-you-need)
