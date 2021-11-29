@@ -8,7 +8,7 @@
 - NeurIPS2021 港大&腾讯AI Lab&牛津提出：CARE，让CNN和Transformer能在对比学习中“互帮互助”！[CSDN Link](https://blog.csdn.net/moxibingdao/article/details/121219821)[paperwithcode](https://paperswithcode.com/paper/revitalizing-cnn-attention-via-transformers)
 - Are we ready for a new paradigm shift? A Survey on Visual Deep MLP [paperwithcode](https://paperswithcode.com/paper/are-we-ready-for-a-new-paradigm-shift-a)[还在纠结CNN还是Transformer？清华发表一篇survey：全连接层才是终极答案！](https://zhuanlan.zhihu.com/p/437157898)
 ### 小样本学习相关论文
-- Few-shot Learning最新进展调研 [Few-shot Learning最新进展调研]（https://www.zhihu.com/column/p/161233926)
+- Few-shot Learning最新进展调研 [Few-shot Learning最新进展调研](https://www.zhihu.com/column/p/161233926)
 - ***Cross Attention Network for Few-shot Classification[paperwithcode](https://paperswithcode.com/paper/cross-attention-network-for-few-shot)[arxiv](https://arxiv.org/pdf/1910.07677v1.pdf)
 - ***Few-shot Classification via Adaptive Attention[paperwithcode](https://paperswithcode.com/paper/few-shot-classification-via-adaptive)[arxiv](https://arxiv.org/pdf/2008.02465v2.pdf)
 - ***Few-shot Classification via Adaptive Attention[paperwithcode](https://paperswithcode.com/paper/multi-scale-adaptive-task-attention-network)[arxiv](https://arxiv.org/pdf/2011.14479v1.pdf)
