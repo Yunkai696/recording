@@ -3,8 +3,10 @@
 
 [PaperWithCode]https://paperswithcode.com/task/few-shot-image-classification
 ### 日常工作记录
-2021.11.29 - [ x ] 主要工作：完成ATTENTIONAL CONSTELLATION NETS FOR FEW-SHOT LEARNING的论文阅读+[调通代码](https://github.com/TJUdyk/ConstellationNet)
-2021.11.30 - [ ] 完成ReNEt的代码详细阅读和Constellation的代码阅读！
+2021.11.29 
+- [x] 主要工作：完成ATTENTIONAL CONSTELLATION NETS FOR FEW-SHOT LEARNING的论文阅读+[调通代码](https://github.com/TJUdyk/ConstellationNet)
+2021.11.30 
+- [ ] 完成ReNEt的代码详细阅读和Constellation的代码阅读！
 ### 注意力机制的论文 
 - 最新的计算机视觉注意力机制(Attention)综述！[知乎Link](https://zhuanlan.zhihu.com/p/438524916)
 - Patches are all you need?[知乎Link](https://www.zhihu.com/question/492712118/answer/2173720753)[PaperWithCode](https://paperswithcode.com/paper/patches-are-all-you-need)
