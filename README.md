@@ -54,7 +54,7 @@
 - [ ] 注意力机制（Visual Attention）https://zhuanlan.zhihu.com/p/324245989
 - [ ] 注意力机制的Spatial Domain和Channel Domain https://blog.csdn.net/weixin_39552472/article/details/110746151
 
-### 对自己提出一些问题-》多问几个为什么？
+### 对自己提出一些问题
 - Global Avg Pooling的作用GAP+FC的组合
 - branach Attention 分别沿着HWC的三个channel做branch attention  参考论文vision permutator和S2MLPv2
 ### :heavy_check_mark: 关键的知识点
